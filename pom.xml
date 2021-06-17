@@ -64,7 +64,7 @@
     <logback.version>1.2.2</logback.version>
     <!-- Be careful to set this as a provided dep, so that it doesn't interfere with dependencies
          from other projects. For example, cassandra and spring boot set guava versions -->
-    <guava.version>19.0</guava.version>
+    <guava.version>30.0-android</guava.version>
     <junit.version>4.12</junit.version>
     <mockito.version>2.6.3</mockito.version>
     <assertj.version>3.6.1</assertj.version>
